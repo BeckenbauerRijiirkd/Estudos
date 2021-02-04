@@ -1,0 +1,13 @@
+C:\Users\beck_\Documents\C#\SegundoProblema\SegundoProblema - Poo\obj\Debug\netcoreapp3.1\SegundoProblema - Poo.csprojAssemblyReference.cache
+C:\Users\beck_\Documents\C#\SegundoProblema\SegundoProblema - Poo\obj\Debug\netcoreapp3.1\SegundoProblema - Poo.AssemblyInfoInputs.cache
+C:\Users\beck_\Documents\C#\SegundoProblema\SegundoProblema - Poo\obj\Debug\netcoreapp3.1\SegundoProblema - Poo.AssemblyInfo.cs
+C:\Users\beck_\Documents\C#\SegundoProblema\SegundoProblema - Poo\obj\Debug\netcoreapp3.1\SegundoProblema - Poo.csproj.CoreCompileInputs.cache
+C:\Users\beck_\Documents\C#\SegundoProblema\SegundoProblema - Poo\bin\Debug\netcoreapp3.1\SegundoProblema - Poo.exe
+C:\Users\beck_\Documents\C#\SegundoProblema\SegundoProblema - Poo\bin\Debug\netcoreapp3.1\SegundoProblema - Poo.deps.json
+C:\Users\beck_\Documents\C#\SegundoProblema\SegundoProblema - Poo\bin\Debug\netcoreapp3.1\SegundoProblema - Poo.runtimeconfig.json
+C:\Users\beck_\Documents\C#\SegundoProblema\SegundoProblema - Poo\bin\Debug\netcoreapp3.1\SegundoProblema - Poo.runtimeconfig.dev.json
+C:\Users\beck_\Documents\C#\SegundoProblema\SegundoProblema - Poo\bin\Debug\netcoreapp3.1\SegundoProblema - Poo.dll
+C:\Users\beck_\Documents\C#\SegundoProblema\SegundoProblema - Poo\bin\Debug\netcoreapp3.1\SegundoProblema - Poo.pdb
+C:\Users\beck_\Documents\C#\SegundoProblema\SegundoProblema - Poo\obj\Debug\netcoreapp3.1\SegundoProblema - Poo.dll
+C:\Users\beck_\Documents\C#\SegundoProblema\SegundoProblema - Poo\obj\Debug\netcoreapp3.1\SegundoProblema - Poo.pdb
+C:\Users\beck_\Documents\C#\SegundoProblema\SegundoProblema - Poo\obj\Debug\netcoreapp3.1\SegundoProblema - Poo.genruntimeconfig.cache

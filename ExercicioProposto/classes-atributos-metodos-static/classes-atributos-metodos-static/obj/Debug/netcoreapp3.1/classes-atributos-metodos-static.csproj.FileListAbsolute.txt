@@ -1,0 +1,13 @@
+C:\Users\beck_\Documents\C#\ExercicioProposto\classes-atributos-metodos-static\classes-atributos-metodos-static\bin\Debug\netcoreapp3.1\classes-atributos-metodos-static.exe
+C:\Users\beck_\Documents\C#\ExercicioProposto\classes-atributos-metodos-static\classes-atributos-metodos-static\bin\Debug\netcoreapp3.1\classes-atributos-metodos-static.deps.json
+C:\Users\beck_\Documents\C#\ExercicioProposto\classes-atributos-metodos-static\classes-atributos-metodos-static\bin\Debug\netcoreapp3.1\classes-atributos-metodos-static.runtimeconfig.json
+C:\Users\beck_\Documents\C#\ExercicioProposto\classes-atributos-metodos-static\classes-atributos-metodos-static\bin\Debug\netcoreapp3.1\classes-atributos-metodos-static.runtimeconfig.dev.json
+C:\Users\beck_\Documents\C#\ExercicioProposto\classes-atributos-metodos-static\classes-atributos-metodos-static\bin\Debug\netcoreapp3.1\classes-atributos-metodos-static.dll
+C:\Users\beck_\Documents\C#\ExercicioProposto\classes-atributos-metodos-static\classes-atributos-metodos-static\bin\Debug\netcoreapp3.1\classes-atributos-metodos-static.pdb
+C:\Users\beck_\Documents\C#\ExercicioProposto\classes-atributos-metodos-static\classes-atributos-metodos-static\obj\Debug\netcoreapp3.1\classes-atributos-metodos-static.csprojAssemblyReference.cache
+C:\Users\beck_\Documents\C#\ExercicioProposto\classes-atributos-metodos-static\classes-atributos-metodos-static\obj\Debug\netcoreapp3.1\classes-atributos-metodos-static.AssemblyInfoInputs.cache
+C:\Users\beck_\Documents\C#\ExercicioProposto\classes-atributos-metodos-static\classes-atributos-metodos-static\obj\Debug\netcoreapp3.1\classes-atributos-metodos-static.AssemblyInfo.cs
+C:\Users\beck_\Documents\C#\ExercicioProposto\classes-atributos-metodos-static\classes-atributos-metodos-static\obj\Debug\netcoreapp3.1\classes-atributos-metodos-static.csproj.CoreCompileInputs.cache
+C:\Users\beck_\Documents\C#\ExercicioProposto\classes-atributos-metodos-static\classes-atributos-metodos-static\obj\Debug\netcoreapp3.1\classes-atributos-metodos-static.dll
+C:\Users\beck_\Documents\C#\ExercicioProposto\classes-atributos-metodos-static\classes-atributos-metodos-static\obj\Debug\netcoreapp3.1\classes-atributos-metodos-static.pdb
+C:\Users\beck_\Documents\C#\ExercicioProposto\classes-atributos-metodos-static\classes-atributos-metodos-static\obj\Debug\netcoreapp3.1\classes-atributos-metodos-static.genruntimeconfig.cache

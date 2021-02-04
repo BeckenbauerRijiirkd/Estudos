@@ -1,0 +1,13 @@
+C:\Users\beck_\Documents\C#\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.1\ExercicioProposto.exe
+C:\Users\beck_\Documents\C#\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.1\ExercicioProposto.deps.json
+C:\Users\beck_\Documents\C#\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.1\ExercicioProposto.runtimeconfig.json
+C:\Users\beck_\Documents\C#\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.1\ExercicioProposto.runtimeconfig.dev.json
+C:\Users\beck_\Documents\C#\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.1\ExercicioProposto.dll
+C:\Users\beck_\Documents\C#\ExercicioProposto\ExercicioProposto\bin\Debug\netcoreapp3.1\ExercicioProposto.pdb
+C:\Users\beck_\Documents\C#\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.csprojAssemblyReference.cache
+C:\Users\beck_\Documents\C#\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.AssemblyInfoInputs.cache
+C:\Users\beck_\Documents\C#\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.AssemblyInfo.cs
+C:\Users\beck_\Documents\C#\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.csproj.CoreCompileInputs.cache
+C:\Users\beck_\Documents\C#\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.dll
+C:\Users\beck_\Documents\C#\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.pdb
+C:\Users\beck_\Documents\C#\ExercicioProposto\ExercicioProposto\obj\Debug\netcoreapp3.1\ExercicioProposto.genruntimeconfig.cache

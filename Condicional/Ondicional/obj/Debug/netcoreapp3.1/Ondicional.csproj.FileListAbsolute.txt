@@ -1,0 +1,13 @@
+C:\Users\beck_\Documents\C#\Ondicional\Ondicional\bin\Debug\netcoreapp3.1\Ondicional.exe
+C:\Users\beck_\Documents\C#\Ondicional\Ondicional\bin\Debug\netcoreapp3.1\Ondicional.deps.json
+C:\Users\beck_\Documents\C#\Ondicional\Ondicional\bin\Debug\netcoreapp3.1\Ondicional.runtimeconfig.json
+C:\Users\beck_\Documents\C#\Ondicional\Ondicional\bin\Debug\netcoreapp3.1\Ondicional.runtimeconfig.dev.json
+C:\Users\beck_\Documents\C#\Ondicional\Ondicional\bin\Debug\netcoreapp3.1\Ondicional.dll
+C:\Users\beck_\Documents\C#\Ondicional\Ondicional\bin\Debug\netcoreapp3.1\Ondicional.pdb
+C:\Users\beck_\Documents\C#\Ondicional\Ondicional\obj\Debug\netcoreapp3.1\Ondicional.csprojAssemblyReference.cache
+C:\Users\beck_\Documents\C#\Ondicional\Ondicional\obj\Debug\netcoreapp3.1\Ondicional.AssemblyInfoInputs.cache
+C:\Users\beck_\Documents\C#\Ondicional\Ondicional\obj\Debug\netcoreapp3.1\Ondicional.AssemblyInfo.cs
+C:\Users\beck_\Documents\C#\Ondicional\Ondicional\obj\Debug\netcoreapp3.1\Ondicional.csproj.CoreCompileInputs.cache
+C:\Users\beck_\Documents\C#\Ondicional\Ondicional\obj\Debug\netcoreapp3.1\Ondicional.dll
+C:\Users\beck_\Documents\C#\Ondicional\Ondicional\obj\Debug\netcoreapp3.1\Ondicional.pdb
+C:\Users\beck_\Documents\C#\Ondicional\Ondicional\obj\Debug\netcoreapp3.1\Ondicional.genruntimeconfig.cache

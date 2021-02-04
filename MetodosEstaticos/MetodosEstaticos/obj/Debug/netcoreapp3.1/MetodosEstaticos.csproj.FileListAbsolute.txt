@@ -1,0 +1,13 @@
+C:\Users\beck_\Documents\C#\MetodosEstaticos\MetodosEstaticos\bin\Debug\netcoreapp3.1\MetodosEstaticos.exe
+C:\Users\beck_\Documents\C#\MetodosEstaticos\MetodosEstaticos\bin\Debug\netcoreapp3.1\MetodosEstaticos.deps.json
+C:\Users\beck_\Documents\C#\MetodosEstaticos\MetodosEstaticos\bin\Debug\netcoreapp3.1\MetodosEstaticos.runtimeconfig.json
+C:\Users\beck_\Documents\C#\MetodosEstaticos\MetodosEstaticos\bin\Debug\netcoreapp3.1\MetodosEstaticos.runtimeconfig.dev.json
+C:\Users\beck_\Documents\C#\MetodosEstaticos\MetodosEstaticos\bin\Debug\netcoreapp3.1\MetodosEstaticos.dll
+C:\Users\beck_\Documents\C#\MetodosEstaticos\MetodosEstaticos\bin\Debug\netcoreapp3.1\MetodosEstaticos.pdb
+C:\Users\beck_\Documents\C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\netcoreapp3.1\MetodosEstaticos.csprojAssemblyReference.cache
+C:\Users\beck_\Documents\C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\netcoreapp3.1\MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\beck_\Documents\C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\netcoreapp3.1\MetodosEstaticos.AssemblyInfo.cs
+C:\Users\beck_\Documents\C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\netcoreapp3.1\MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\beck_\Documents\C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\netcoreapp3.1\MetodosEstaticos.dll
+C:\Users\beck_\Documents\C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\netcoreapp3.1\MetodosEstaticos.pdb
+C:\Users\beck_\Documents\C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\netcoreapp3.1\MetodosEstaticos.genruntimeconfig.cache

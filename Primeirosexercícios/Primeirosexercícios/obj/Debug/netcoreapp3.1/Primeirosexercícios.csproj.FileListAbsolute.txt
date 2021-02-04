@@ -1,0 +1,13 @@
+C:\Users\beck_\Documents\C#\Primeirosexercícios\Primeirosexercícios\bin\Debug\netcoreapp3.1\Primeirosexercícios.exe
+C:\Users\beck_\Documents\C#\Primeirosexercícios\Primeirosexercícios\bin\Debug\netcoreapp3.1\Primeirosexercícios.deps.json
+C:\Users\beck_\Documents\C#\Primeirosexercícios\Primeirosexercícios\bin\Debug\netcoreapp3.1\Primeirosexercícios.runtimeconfig.json
+C:\Users\beck_\Documents\C#\Primeirosexercícios\Primeirosexercícios\bin\Debug\netcoreapp3.1\Primeirosexercícios.runtimeconfig.dev.json
+C:\Users\beck_\Documents\C#\Primeirosexercícios\Primeirosexercícios\bin\Debug\netcoreapp3.1\Primeirosexercícios.dll
+C:\Users\beck_\Documents\C#\Primeirosexercícios\Primeirosexercícios\bin\Debug\netcoreapp3.1\Primeirosexercícios.pdb
+C:\Users\beck_\Documents\C#\Primeirosexercícios\Primeirosexercícios\obj\Debug\netcoreapp3.1\Primeirosexercícios.csprojAssemblyReference.cache
+C:\Users\beck_\Documents\C#\Primeirosexercícios\Primeirosexercícios\obj\Debug\netcoreapp3.1\Primeirosexercícios.AssemblyInfoInputs.cache
+C:\Users\beck_\Documents\C#\Primeirosexercícios\Primeirosexercícios\obj\Debug\netcoreapp3.1\Primeirosexercícios.AssemblyInfo.cs
+C:\Users\beck_\Documents\C#\Primeirosexercícios\Primeirosexercícios\obj\Debug\netcoreapp3.1\Primeirosexercícios.csproj.CoreCompileInputs.cache
+C:\Users\beck_\Documents\C#\Primeirosexercícios\Primeirosexercícios\obj\Debug\netcoreapp3.1\Primeirosexercícios.dll
+C:\Users\beck_\Documents\C#\Primeirosexercícios\Primeirosexercícios\obj\Debug\netcoreapp3.1\Primeirosexercícios.pdb
+C:\Users\beck_\Documents\C#\Primeirosexercícios\Primeirosexercícios\obj\Debug\netcoreapp3.1\Primeirosexercícios.genruntimeconfig.cache
