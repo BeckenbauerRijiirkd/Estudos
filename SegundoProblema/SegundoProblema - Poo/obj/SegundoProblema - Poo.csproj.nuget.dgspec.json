@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\beck_\\Documents\\C#\\SegundoProblema\\SegundoProblema - Poo\\SegundoProblema - Poo.csproj": {}
+    "C:\\Users\\beck_\\Documents\\C#\\Estudos\\SegundoProblema\\SegundoProblema - Poo\\SegundoProblema - Poo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\beck_\\Documents\\C#\\SegundoProblema\\SegundoProblema - Poo\\SegundoProblema - Poo.csproj": {
+    "C:\\Users\\beck_\\Documents\\C#\\Estudos\\SegundoProblema\\SegundoProblema - Poo\\SegundoProblema - Poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beck_\\Documents\\C#\\SegundoProblema\\SegundoProblema - Poo\\SegundoProblema - Poo.csproj",
+        "projectUniqueName": "C:\\Users\\beck_\\Documents\\C#\\Estudos\\SegundoProblema\\SegundoProblema - Poo\\SegundoProblema - Poo.csproj",
         "projectName": "SegundoProblema - Poo",
-        "projectPath": "C:\\Users\\beck_\\Documents\\C#\\SegundoProblema\\SegundoProblema - Poo\\SegundoProblema - Poo.csproj",
+        "projectPath": "C:\\Users\\beck_\\Documents\\C#\\Estudos\\SegundoProblema\\SegundoProblema - Poo\\SegundoProblema - Poo.csproj",
         "packagesPath": "C:\\Users\\beck_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beck_\\Documents\\C#\\SegundoProblema\\SegundoProblema - Poo\\obj\\",
+        "outputPath": "C:\\Users\\beck_\\Documents\\C#\\Estudos\\SegundoProblema\\SegundoProblema - Poo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\beck_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
