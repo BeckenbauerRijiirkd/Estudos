@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Globalization;
 
 namespace Course {
     class Program {
@@ -8,18 +7,12 @@ namespace Course {
             Produto p = new Produto("TV", 500.00, 10);
 
             Console.WriteLine(p.GetNome());
-            
+
             p.SetNome("t");
 
             Console.WriteLine(p.GetNome());
             Console.WriteLine(p.GetPreco());
             Console.WriteLine(p.GetQuantidade());
-
-
-
-
-            
-
         }
     }
 }

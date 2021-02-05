@@ -8,11 +8,10 @@ namespace Course {
         private double _preco;
         private int _quantidade;
 
-
         public Produto() {
             _quantidade = 10;
         }
-        public Produto(string nome, double preco, int quantidade) : this(){
+        public Produto(string nome, double preco, int quantidade) : this() {
             _nome = nome;
             _preco = preco;
             _quantidade = quantidade;
@@ -23,10 +22,11 @@ namespace Course {
         }
 
         public void SetNome(string nome) {
-            if (nome != null && nome.Length > 1) { 
-            _nome = nome;
+            if (nome != null && nome.Length > 1) {
+                _nome = nome;
             }
-            else { Console.WriteLine("O nome não atingiu os requisitos");
+            else {
+                Console.WriteLine("O nome não atingiu os requisitos");
             }
         }
 
